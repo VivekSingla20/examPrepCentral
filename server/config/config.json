@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Vivek@20",
+      "database": "examprepcentral",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
